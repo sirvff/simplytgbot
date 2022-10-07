@@ -1,11 +1,9 @@
 import telebot
 from telebot import types
-
+from telebot import apihelper
 
 bot = telebot.TeleBot('номер бота')
 
-import telebot
-from telebot import apihelper
 
 
 
